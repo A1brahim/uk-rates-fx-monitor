@@ -9,6 +9,9 @@ A small finance analytics portfolio project:
 - **Data sources:** Bank of England (Official Bank Rate, series IUDBEDR) + ECB Data Portal (GBP/EUR)
 - **App:** Streamlit dashboard querying BigQuery
 
+## Architecture: 
+See ARCHITECTURE.md
+
 ## Local run
 
 1) Create `.streamlit/secrets.toml` and paste your **service account JSON fields** under `[gcp_service_account]`.
