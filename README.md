@@ -1,5 +1,5 @@
 ## Live App
-https://YOUR-APP-NAME.streamlit.app
+https://uk-rates-fx-monitor-wmhywnxkwz2tjejddv3nx8.streamlit.app
 
 
 # UK Rates & FX Market Monitor (BigQuery + Streamlit)
